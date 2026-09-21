@@ -4690,7 +4690,7 @@ input, select, textarea {
 	/* Fix long title clipping on mobile screens */
 @media screen and (max-width: 736px) {
     #intro h1 {
-        font-size: 1.75rem !important;
+        font-size: 1.3rem !important;
         letter-spacing: 0.02em !important;
         word-break: break-word;
     }
